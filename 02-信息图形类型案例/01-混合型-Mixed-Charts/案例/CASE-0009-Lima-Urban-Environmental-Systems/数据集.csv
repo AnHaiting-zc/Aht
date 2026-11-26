@@ -1,0 +1,31 @@
+case_id,domain,indicator_name,displayed_value,unit,comparison_or_denominator,geography,reference_year,source_as_shown,evidence_status,ambiguity_note
+CASE-0009,AIRE,Parque automotor污染来源,88.42,%,污染来源构成,Lima,,Ministerio del Ambiente,图面转录,比例圆面积是否严格按比例未知
+CASE-0009,AIRE,Industrias fábricas y talleres污染来源,11,%,污染来源构成,Lima,,Ministerio del Ambiente,图面转录,比例圆面积是否严格按比例未知
+CASE-0009,AIRE,Otros污染来源,0.53,%,污染来源构成,Lima,,Ministerio del Ambiente,图面转录,三类合计99.95%
+CASE-0009,AIRE,公共交通车辆,32000,辆,车辆数量,Lima,,图面转录,统计年份未注明
+CASE-0009,AIRE,每千名居民车辆数,150,辆/1000人,人口标准化数量,Lima,,Ministerio del Ambiente,图面转录,车辆类别及年份待核
+CASE-0009,AIRE,PM2.5平均浓度,38,μg/m³,平均浓度,Lima,,OMS/WHO,图面转录,监测年份与时段未注明
+CASE-0009,AIRE,PM2.5合理或建议值,10,μg/m³,图面参照值,Lima,,OMS/WHO,图面转录,具体标准版本待核
+CASE-0009,ÁREAS VERDES,公共绿地面积相关指标,3207,ha,图面称zonificadas como áreas verdes públicas,Lima,,图面来源未明确,图面转录,与2700和244的关系待核
+CASE-0009,ÁREAS VERDES,已实施并有植被的面积,2700,ha,图面称implementadas efectivamente con vegetación,Lima,,图面来源未明确,图面转录,与3207和244的关系待核
+CASE-0009,ÁREAS VERDES,圆形序列第三个面积值,244,ha,箭头序列中的第三数值,Lima,,图面来源未明确,图面转录,具体指向与定义不清
+CASE-0009,ÁREAS VERDES,公园数量,15,个,Parques zonales y metropolitanos及Parque de las Leyendas,Lima,,图面转录,数量类别边界待核
+CASE-0009,ÁREAS VERDES,图面所称人均绿地应有量,8,m²/人,规划或参照值,Lima,,图面来源未明确,图面转录,参照标准待核
+CASE-0009,ÁREAS VERDES,图面所称现有人均绿地,3.08,m²/人,现状值,Lima,,图面来源未明确,图面转录,统计年份及人口口径待核
+CASE-0009,AGUA,污水产生量相关指标,20000,L/s,Lima与Callao产生量,Lima/Callao,,图面转录,单位按图面转录,需核实是否为污水总量
+CASE-0009,AGUA,未经处理水比例,80,%,饼图构成,Lima/Callao,,图面转录,文字明确指向Agua sin tratamiento,饼图另一部分20%按互补关系理解
+CASE-0009,AGUA,已处理水比例,20,%,饼图构成,Lima/Callao,,图面转录,图面饼图,处理定义与分母待核
+CASE-0009,AGUA,污水处理厂数量,41,座,Plantas de tratamiento distribuidas en la ciudad,Lima,,图面转录,运行状态与能力未注明
+CASE-0009,AGUA,处理水量,3200,L/s,Agua tratada,Lima/Callao,,图面转录,与20000总量的口径关系待核
+CASE-0009,AGUA,再利用水量,1000,L/s,Agua reutilizada,Lima/Callao,,图面转录,与3200的统计关系待核
+CASE-0009,AGUA,Rímac河非法农业排放点,14,处,vertimientos agrícolas ilegales,Río Rímac,,图面转录,统计年份未注明
+CASE-0009,AGUA,Rímac河未经授权污水排放点,140,处,vertimientos de aguas residuales sin autorización,Río Rímac,,图面转录,统计年份未注明
+CASE-0009,AGUA,Rímac河非法管道,500,条,tuberías clandestinas,Río Rímac,,图面转录,统计年份未注明
+CASE-0009,RESIDUOS,固体废弃物产生量,7000,吨,时间单位未注明,Lima/Callao,,图面转录,时间口径缺失,不可擅自补写每日
+CASE-0009,RESIDUOS,回收比例,10,%,图面称se recicla,Lima/Callao,,图面转录,分母和年份待核
+CASE-0009,RESIDUOS,垃圾倾倒场总数,15,处,botaderos,Lima,,图面转录,统计年份未注明
+CASE-0009,RESIDUOS,仍在活动的垃圾倾倒场,10,处,15处中的活动场所,Lima,,图面转录,活动定义待核
+CASE-0009,RESIDUOS,垃圾堆积面积,193,ha,图面称aproximada,Lima,,图面转录,统计范围待核
+CASE-0009,RESIDUOS,Rímac河垃圾堆积关键点,45,处,puntos críticos de acumulación de basura,Río Rímac,,图面转录,统计年份未注明
+CASE-0009,RESIDUOS,Chillón河道废弃物／瓦砾堆积量,1000000,m³,图面称más de 1 millón,Río Chillón,,图面转录,大于100万而非精确值
+CASE-0009,RESIDUOS,行政区固体废弃物收集率范围,45–85,%,图面称se recoge entre el 45% y el 85%,Lima districts,,图面转录,各区具体值与编号映射待核

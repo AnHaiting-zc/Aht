@@ -19,6 +19,6 @@
 - [CASE-0005｜三枝成韵·满室生春：中国插花信息设计](./02-信息图形类型案例/15-编年编目复合型-Hybrid/案例/CASE-0005-Chinese-Flower-Arrangement-Information-Design/README.md)
 - [CASE-0006｜Bún mọc：越南肉丸米粉汤制作流程信息图](./02-信息图形类型案例/05-流程图型-Process/案例/CASE-0006-Bun-Moc-Vietnamese-Noodle-Soup-Recipe/README.md)
 - [CASE-0007｜Walter Gropius：包豪斯人物生平与建筑作品环形时间轴](./02-信息图形类型案例/03-时间轴型-Timeline/案例/CASE-0007-Walter-Gropius-Bauhaus-Biographical-Timeline/README.md)
-- [CASE-0008｜Quezon City History：奎松市历史与地标编年目录](./02-信息图形类型案例/15-编年编目复合型-Hybrid/案例/CASE-0008-Quezon-City-History-Timeline-Landmark-Catalog/README.md)
+- [CASE-0008｜Quezon City History：奎松市历史与地标编年目录](./02-信息图形类型案例/15-编年编目复合型-Hybrid/案例/CASE-0008-Quezon-City-History-Timeline-Landmark-Catalog/README.md)\n- [CASE-0009｜Lima Urban Environmental Systems：利马城市环境系统](./02-信息图形类型案例/01-混合型-Mixed-Charts/案例/CASE-0009-Lima-Urban-Environmental-Systems/README.md)
 
 每个案例尽量保存分析、结构化CSV、数据字典及来源记录；第三方图片未经许可不复制入库。
