@@ -1,0 +1,12 @@
+case_id,project_id,visible_year,visible_project_name,visual_type,location,confidence,notes
+CASE-0007,P01,1910,Fagus-Werk,建筑照片／建筑图像,,high,图面英文名称可辨
+CASE-0007,P02,1920,名称未可靠辨认,雕塑／纪念性建筑图像,,low,仅记录图像类别，不猜测项目名称
+CASE-0007,P03,1925,Bauhaus Dessau,建筑照片／建筑图像,,high,图面英文名称可辨
+CASE-0007,P04,1925,Meisterhäuser,建筑照片／建筑图像,,high,图面英文名称可辨
+CASE-0007,P05,1926,Siedlung Dessau-Törten,建筑照片／建筑图像,,medium,英文标签可辨部分；需高清图复核拼写
+CASE-0007,P06,1928,名称未可靠辨认,住宅／建筑照片,,low,年份可辨，项目名不补写
+CASE-0007,P07,1936,名称未可靠辨认,建筑立面图像,,low,年份可辨，项目名不补写
+CASE-0007,P08,1937,名称未可靠辨认,建筑照片／项目图像,,low,年份可辨，项目名不补写
+CASE-0007,P09,1958,MetLife Building,建筑照片／建筑图像,,medium,图面可辨英文文字；项目与年份关系仅按图面记录
+CASE-0007,P10,1959,名称未可靠辨认,建筑照片／建筑图像,,low,年份可辨，项目名不补写
+CASE-0007,P11,1963,名称未可靠辨认,高层建筑照片／建筑图像,,low,年份可辨，项目名不补写

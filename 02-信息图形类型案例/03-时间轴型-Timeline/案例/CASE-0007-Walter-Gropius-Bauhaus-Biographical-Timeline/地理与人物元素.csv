@@ -1,0 +1,9 @@
+case_id,element_id,element_type,visible_label,visual_role,confidence,notes
+CASE-0007,G01,geographic_label,UK,地图地点标签,high,仅转录图面可见文字
+CASE-0007,G02,geographic_label,GERMANY,地图地点标签,high,仅转录图面可见文字
+CASE-0007,G03,geographic_label,USA,地图地点标签,high,仅转录图面可见文字
+CASE-0007,G04,map,世界地图浅灰底图,地理背景,high,未见可读比例尺或完整图例
+CASE-0007,G05,map_marker,多个圆形地点标记,地点节点,medium,具体地点名称及节点含义不清
+CASE-0007,PERS01,portrait,Walter Gropius中央主肖像,人物识别与视觉中心,high,图面人物姓名明确
+CASE-0007,PERS02,group_photo,右上方人物合影,历史环境／人物群像,medium,未识别合影中个体
+CASE-0007,PERS03,portrait_group,中央肖像周边多个圆形人物肖像,相关人物视觉组,medium,姓名及关系标签无法可靠辨认

@@ -1,0 +1,24 @@
+case_id,marker_id,visible_label,normalized_time,time_precision,visual_position,event_or_project_label,confidence,notes
+CASE-0007,T01,1883.5.18,1883-05-18,day,环形轨道右上起点,,medium,位于轨道端点；版式提示生平起始日期，未独立核验
+CASE-0007,T02,1906,1906,year,轨道右上段,,high,年份可辨，事件名称不可可靠辨认
+CASE-0007,T03,1907,1907,year,轨道右上段,,high,年份可辨，事件名称不可可靠辨认
+CASE-0007,T04,1908,1908,year,轨道右上段,,high,年份可辨，事件名称不可可靠辨认
+CASE-0007,T05,1910,1910,year,右侧外围项目卡片,Fagus-Werk,high,项目名可辨
+CASE-0007,T06,1913,1913,year,轨道右侧,,high,年份可辨
+CASE-0007,T07,1915,1915,year,轨道右下段,,high,年份可辨
+CASE-0007,T08,1919,1919,year,轨道右下段,,high,年份可辨
+CASE-0007,T09,1920,1920,year,右侧外围项目卡片,项目标题部分可辨,medium,保留年份；不强行补全项目名
+CASE-0007,T10,1925,1925,year,右侧外围项目卡片,Bauhaus Dessau,high,图面可辨项目名
+CASE-0007,T11,1925,1925,year,右下外围项目卡片,Meisterhäuser,high,图面可辨项目名
+CASE-0007,T12,1926,1926,year,下方外围项目卡片,Siedlung Dessau-Törten,high,图面可辨项目名
+CASE-0007,T13,1928,1928,year,下方外围卡片,项目文字待核验,medium,年份可辨；项目名过小
+CASE-0007,T14,1930,1930,year,轨道下段,,high,年份可辨
+CASE-0007,T15,1934,1934,year,轨道左下段,,high,年份可辨
+CASE-0007,T16,1936,1936,year,左下外围项目卡片,项目文字待核验,medium,年份可辨
+CASE-0007,T17,1937,1937,year,左下外围项目卡片,项目文字待核验,medium,年份可辨
+CASE-0007,T18,1946,1946,year,轨道左侧,,high,年份可辨
+CASE-0007,T19,1952,1952,year,轨道左上段,,high,年份可辨
+CASE-0007,T20,1958,1958,year,左侧外围项目卡片,MetLife Building,high,图面可辨英文项目名
+CASE-0007,T21,1959,1959,year,左侧外围项目卡片,项目文字待核验,medium,年份可辨；说明文字过小
+CASE-0007,T22,1963,1963,year,左上外围项目卡片,项目文字待核验,medium,年份可辨；项目标题未可靠辨认
+CASE-0007,T23,1967.7.5,1967-07-05,day,环形轨道左上终点,,medium,位于轨道端点；版式提示生平终止日期，未独立核验
