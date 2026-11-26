@@ -1,0 +1,18 @@
+case_id,record_type,label,age_million_years,unit,visual_encoding,transcription_status,notes
+CASE-0004,age_marker,Age marker,4600,Ma,Dashed radial guide,Visible,Exact boundary association not verified
+CASE-0004,age_marker,Age marker,4000,Ma,Dashed radial guide,Visible,Exact boundary association not verified
+CASE-0004,age_marker,Age marker,2500,Ma,Dashed radial guide,Visible,Exact boundary association not verified
+CASE-0004,age_marker,Age marker,542,Ma,Dashed radial guide,Visible,Exact boundary association not verified
+CASE-0004,age_marker,Age marker,488,Ma,Dashed radial guide,Visible,Exact boundary association not verified
+CASE-0004,age_marker,Age marker,443,Ma,Dashed radial guide and red event marker nearby,Visible,Do not infer event name
+CASE-0004,age_marker,Age marker,416,Ma,Dashed radial guide,Visible,Exact boundary association not verified
+CASE-0004,age_marker,Age marker,374,Ma,Red event marker and age label,Visible,Do not infer event name
+CASE-0004,age_marker,Age marker,359,Ma,Dashed radial guide,Visible,Exact boundary association not verified
+CASE-0004,geological_interval,Hadean,,,,Visible,Full interval boundaries not transcribed
+CASE-0004,geological_interval,Archean,,,,Visible,Full interval boundaries not transcribed
+CASE-0004,geological_interval,Proterozoic,,,,Visible,Full interval boundaries not transcribed
+CASE-0004,geological_interval,Cambrian,,,,Visible,Full interval boundaries not transcribed
+CASE-0004,geological_interval,Ordovician,,,,Visible,Full interval boundaries not transcribed
+CASE-0004,geological_interval,Silurian,,,,Visible,Full interval boundaries not transcribed
+CASE-0004,geological_interval,Devonian,,,,Visible,Full interval boundaries not transcribed
+CASE-0004,event_category,Mass extinction events,,,,Red circled symbol,Legend visible,Specific event names not legible in crop

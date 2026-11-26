@@ -11,7 +11,10 @@
 - [06 通用视觉风格克隆系统](./06-通用视觉风格克隆系统/README.md)
 - [99 主题信息图形设计流程](./06-XXX主题信息图形设计/README.md)
 
-## 新增案例
+## 已归档案例
+- [CASE-0001｜Power Centers of the Fortune 500](./02-信息图形类型案例/07-地标型-Location/案例/CASE-0001-Fortune500都市圈营收分布/README.md)
+- [CASE-0002｜Our Process](./02-信息图形类型案例/05-流程图型-Process/案例/CASE-0002-Our-Process-曲线流程信息图/README.md)
 - [CASE-0003｜Adults’ wellbeing compared to support they received as a child](./02-信息图形类型案例/06-比较型-Comparison/案例/CASE-0003-Adults-Wellbeing-and-Childhood-Support/README.md)
+- [CASE-0004｜History of Life as We Know It（暂定）](./02-信息图形类型案例/03-时间轴型-Timeline/案例/CASE-0004-History-of-Life-Radial-Geological-Timeline/README.md)
 
 每个案例尽量保存分析、CSV数据集、数据字典及来源记录；第三方图片未经许可不复制入库。
