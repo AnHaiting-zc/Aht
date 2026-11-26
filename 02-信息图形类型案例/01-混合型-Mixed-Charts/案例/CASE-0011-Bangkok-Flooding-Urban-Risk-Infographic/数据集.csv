@@ -1,0 +1,29 @@
+case_id,module_id,indicator_name,displayed_value,unit,period,geography,definition_or_denominator,source_as_shown,evidence_status,ambiguity_note
+CASE-0011,M02,季风季节起始月份,May,month,seasonal,Bangkok,图面称季风季节从5月开始,未在该指标旁清晰标注,图面转录,标题文字可辨
+CASE-0011,M02,季风季节结束月份,October,month,seasonal,Bangkok,图面称季风季节至10月,未在该指标旁清晰标注,图面转录,标题文字可辨
+CASE-0011,M03,中央背景指标A,11.07 Million,Million,未注明,Bangkok相关,指标标签无法辨认,未辨认,待核验,不得猜测为人口或其他规模
+CASE-0011,M03,中央背景指标B,2nd,rank,未注明,Bangkok相关,排名对象无法辨认,未辨认,待核验,只保留可见数字
+CASE-0011,M03,中央背景指标C,3% Annual,percent per year,未注明,Bangkok相关,年度变化指标对象无法辨认,未辨认,待核验,只保留可见数字与annual
+CASE-0011,M04,洪水受影响人数,27.2M,people,未注明,图面所述范围未注明,图面类别Flooding,未辨认,图面转录／待核验,统计时间与地理范围需核验
+CASE-0011,M04,干旱受影响人数,16.5M,people,未注明,图面所述范围未注明,图面类别Drought,未辨认,图面转录／待核验,统计时间与地理范围需核验
+CASE-0011,M04,地震受影响人数,1M,people,未注明,图面所述范围未注明,图面类别Earthquake,未辨认,图面转录／待核验,统计时间与地理范围需核验
+CASE-0011,M04,风暴受影响人数,1M,people,未注明,图面所述范围未注明,图面类别Storm,未辨认,图面转录／待核验,统计时间与地理范围需核验
+CASE-0011,M05,风险评分A,9.8/10,score,未注明,Bangkok相关,评分对象标签无法辨认,未辨认,待核验,不可解释为官方风险等级
+CASE-0011,M05,风险评分B,5.8/10,score,未注明,Bangkok相关,评分对象标签无法辨认,未辨认,待核验,不可解释为官方风险等级
+CASE-0011,M05,风险评分C,5.2/10,score,未注明,Bangkok相关,评分对象标签无法辨认,未辨认,待核验,不可解释为官方风险等级
+CASE-0011,M05,风险评分D,1.7/10,score,未注明,Bangkok相关,评分对象标签无法辨认,未辨认,待核验,不可解释为官方风险等级
+CASE-0011,M05,风险评分E,1.6/10,score,未注明,Bangkok相关,评分对象标签无法辨认,未辨认,待核验,不可解释为官方风险等级
+CASE-0011,M06,曼谷年沉降速率,1–2,cm/year,图面未注明起止年份,Bangkok,图面文字称每年下沉1–2cm,未辨认,图面转录／待核验,测量范围与时期需核验
+CASE-0011,M06,未来风险提示,<15,years,未来情景,Bangkok,图面大字提示小于15年，完整解释需核验,未辨认,待核验,不能确定所指具体后果
+CASE-0011,M06,洪灾损害变化,2×,倍数,2008–2050,图面所述范围未注明,图面文字称flood damage between 2008–2050,未辨认,图面转录／待核验,模型和比较基准待核
+CASE-0011,M06,GDP影响,-96%,percent,洪灾情景,Bangkok,图面文字称impact on Bangkok's GDP (PPP),未辨认,图面转录／待核验,指标定义与情景需核验
+CASE-0011,M07,排水系统当前出流能力,200,m³/min,未注明,Bangkok,图面称来自四个主要隧道项目的总出流能力,未辨认,图面转录／待核验,项目范围和测量口径待核
+CASE-0011,M07,图面所称实际所需出流量,2000,m³/min,未注明,Bangkok,图面称actual outflow required,未辨认,图面转录／待核验,需求计算方法待核
+CASE-0011,M07,污水／排水系统年龄,30+,years,图面未注明基准年份,Bangkok,图面称系统已超过30年,未辨认,图面转录／待核验,系统具体范围待核
+CASE-0011,M07,所需蓄水量,7–8 million,m³,未注明,Bangkok,图面称water storage is still required,未辨认,图面转录／待核验,容量规划口径待核
+CASE-0011,M08,2011年泰国洪灾经济损失,1.43 Trillion,baht,2011,Thailand,图面直接陈述洪灾损失,图面底部来源列表,图面转录／待核验,需要核对价格年份与统计口径
+CASE-0011,M08,2011年洪灾损失美元括注,46.5 billion,USD,2011,Thailand,图面括注US$46.5 billion,图面底部来源列表,图面转录／待核验,汇率和价格基准未注明
+CASE-0011,M08,2011年洪灾附加指标A,14800,count,2011,Thailand,标签文字无法辨认,图面底部来源列表,待核验,不猜测为死亡人数或受影响设施
+CASE-0011,M08,2011年洪灾附加指标B,2.8M,count,2011,Thailand,标签文字无法辨认,图面底部来源列表,待核验,指标对象不清
+CASE-0011,M08,2011年洪灾附加指标C,65,count,2011,Thailand,标签文字无法辨认,图面底部来源列表,待核验,指标对象不清
+CASE-0011,M08,2011年洪灾附加指标D,602,count,2011,Thailand,标签文字无法辨认,图面底部来源列表,待核验,指标对象不清
