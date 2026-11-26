@@ -1,0 +1,14 @@
+case_id,ingredient_vi,ingredient_zh,listed_in_bottom_legend,mentioned_in_steps_or_intro,category,confidence,notes
+CASE-0006,Xương,骨头／猪骨,yes,yes,汤底原料,high,图面标签可辨
+CASE-0006,Giò sống,生肉糜／越式生猪肉糜,yes,yes,肉丸原料,high,保留越南语名称
+CASE-0006,Mộc nhĩ,木耳,yes,yes,肉丸原料,high,图面拼写有轻微排版压缩
+CASE-0006,Nấm hương,香菇,yes,yes,肉丸原料,high,图面标签可辨
+CASE-0006,Thịt,肉类,yes,yes,配料,high,具体肉类未明确
+CASE-0006,Chả,越式肉制品／肉饼类,yes,yes,配料,medium,统称；具体品种需核验
+CASE-0006,Rau ăn kèm,搭配蔬菜／香草,yes,yes,配菜,high,图标呈现绿叶配菜
+CASE-0006,Bún,米粉, no,yes,主食,high,正文步骤提及，未列入底部七项图例
+CASE-0006,Hành tươi,鲜葱, no,yes,香草配料,high,正文步骤提及
+CASE-0006,Hành phi,炸葱, no,yes,香味配料,high,正文步骤提及
+CASE-0006,Giò lụa,越式猪肉卷／肉卷, no,yes,肉类配料,medium,越南特色肉制品译名需核验
+CASE-0006,Chả chiên,炸肉饼／炸制肉制品, no,yes,肉类配料,medium,具体产品形态需核验
+CASE-0006,Chả quế,肉桂香肠／肉桂风味肉卷, no,yes,肉类配料,medium,译名需核验

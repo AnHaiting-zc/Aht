@@ -1,0 +1,6 @@
+case_id,step_no,step_title_vi,operation_zh,ingredients,tools_or_objects,output_or_state,sequence_role,confidence,notes
+CASE-0006,1,,将切碎的香菇和木耳加入生肉糜，调味并充分搅拌,Giò sống; Nấm hương; Mộc nhĩ; gia vị,手与肉糜,调味混合肉糜,主流程步骤,high,越南语原文可辨
+CASE-0006,2,,将肉糜搓成适口大小的圆丸并放入骨汤锅,Mọc; nước hầm xương,手; 肉丸; 汤锅,成形肉丸进入汤锅,主流程步骤,high,图面编号2
+CASE-0006,3,,清洗骨头并焯水后放入锅中炖煮至少3小时,Xương; nước,清洗容器; 炖锅,骨汤底,主流程步骤,high,与步骤2的工艺先后存在潜在冲突；保留原图编号
+CASE-0006,4,,将越式肉卷、炸肉饼、肉桂香肠／肉卷及肉类切成适口薄片,giò lụa; chả chiên; chả quế; thịt,刀; 砧板; 肉制品,切片配料,主流程步骤,medium,中文品名需进一步核验
+CASE-0006,5,,将米粉放入碗中，摆放肉类配料、鲜葱和炸葱，最后加入汤和肉丸,bún; chả; giò; hành tươi; hành phi; nước dùng; mọc,碗; 汤勺,完成的Bún mọc,主流程步骤,high,图面装碗动作可辨
