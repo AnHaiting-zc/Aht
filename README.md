@@ -16,5 +16,6 @@
 - [CASE-0002｜Our Process](./02-信息图形类型案例/05-流程图型-Process/案例/CASE-0002-Our-Process-曲线流程信息图/README.md)
 - [CASE-0003｜Adults’ wellbeing compared to support they received as a child](./02-信息图形类型案例/06-比较型-Comparison/案例/CASE-0003-Adults-Wellbeing-and-Childhood-Support/README.md)
 - [CASE-0004｜History of Life as We Know It（暂定）](./02-信息图形类型案例/03-时间轴型-Timeline/案例/CASE-0004-History-of-Life-Radial-Geological-Timeline/README.md)
+- [CASE-0005｜三枝成韵·满室生春：中国插花信息设计](./02-信息图形类型案例/15-编年编目复合型-Hybrid/案例/CASE-0005-Chinese-Flower-Arrangement-Information-Design/README.md)
 
-每个案例尽量保存分析、CSV数据集、数据字典及来源记录；第三方图片未经许可不复制入库。
+每个案例尽量保存分析、CSV结构数据、数据字典及来源记录；第三方图片未经许可不复制入库。

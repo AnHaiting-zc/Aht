@@ -1,0 +1,12 @@
+case_id,zone,module,visible_title,visual_form,information_logic,observed_content,confidence,notes
+CASE-0005,upper,theme_header,三枝成韵·满室生春,Title and subtitle,Topic framing,Chinese flower arrangement information design,high,Small introductory copy not fully legible
+CASE-0005,upper_left,history,发展历史,Text blocks with icons and small illustrations,Chronological narrative,Historical development information,medium,Specific period labels and body copy too small to transcribe
+CASE-0005,upper_right,geography,主要流派,China map with colored regions or nodes and legend,Geographic distribution,Schools or styles associated with regions,medium,Specific names and exact region mapping not legible
+CASE-0005,upper_lower,history_timeline,,Horizontal baseline with repeated peaks vertical markers and labels,Chronological sequence,Historical stages or events,medium,Peak height meaning and proportionality not confirmed
+CASE-0005,upper_center,illustrative_connector,,Flower blossoms connected by curved branch,Illustrative narrative connector,Visual linkage between historical modules,high,Decorative and thematic rather than quantitative
+CASE-0005,lower_left,vessel_catalog,花器选择,Silhouette/icon matrix,Taxonomy and catalog,Multiple vessel forms,high,Individual vessel labels too small
+CASE-0005,lower_left_bottom,stand_catalog,各式几架,Illustrated object catalog,Taxonomy and catalog,Several stands or supporting objects,high,Exact object names not legible
+CASE-0005,lower_center,hero_illustration,,Large flower arrangement in vase,Illustrative hero image,Central arrangement composition,high,Not a quantitative chart
+CASE-0005,lower_right_top,material_taxonomy,花材形状,Branching tree or radial hierarchy,Hierarchical classification,Flower material shape categories,high,Leaf labels too small to transcribe
+CASE-0005,lower_right_middle,material_selection,花材筛选（以十大名花为例）,Flower-form icon row,Exemplification and catalog,Flower samples and labels,high,Individual flower names not reliably legible
+CASE-0005,lower_right_bottom,relation_flow,,Multiple columns linked by curved bands,Flow or relationship diagram,Relationships among categories or selection items,medium,Not enough evidence to assert quantitative Sankey flow
