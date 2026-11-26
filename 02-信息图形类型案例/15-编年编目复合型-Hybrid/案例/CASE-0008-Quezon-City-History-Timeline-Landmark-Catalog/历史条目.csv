@@ -1,0 +1,11 @@
+case_id,entry_id,visible_order,visible_year,normalized_year,entry_title,entry_category,visible_description_summary,related_person_or_entity,place_label,image_subject,time_semantics,confidence,verification_notes
+CASE-0008,E01,1,1941,1941,WW II EFFECT,历史事件／城市规划,文字称Quezon总统决定创建新城市以取代Manila成为菲律宾首都,President Quezon,Quezon City／Manila,军事车辆／战争图像,标题年份含义待核验,high,图面文字转录；年份与叙述关系需核验
+CASE-0008,E02,2,1938,1938,PRESIDENT MANUEL L. QUEZON,历史人物／建城叙述,文字称其建立城市并以自己命名；后文提到1976年及Quezon City作为菲律宾首都,Manuel L. Quezon,Quezon City,Manuel L. Quezon肖像,条目年份与段落时间关系不清,high,原文语义不清，不补全
+CASE-0008,E03,3,1948,1948,MABUHAY ROTONDA,城市地标／公共空间,又称Welcome Rotonda；文字称其为Quezon City与Manila边界标志,无明确人物,Quezon City与Manila边界,Welcome Rotonda图像,可能代表地标建成年份或历史节点，待核验,high,仅转录图面
+CASE-0008,E04,4,1978,1978,QUEZON CITY MEMORIAL CIRCLE,纪念设施／公共空间,文字提到战前National Government Center规划、三权机构设想、Executive Order No.79和纪念委员会,Manuel L. Quezon; Pres. Osmena,Quezon City,纪念圆环／纪念设施,年份指向不清,high,需核验1978代表规划、建成还是其他事件
+CASE-0008,E05,5,1949,1949,UP DILIMAN,教育机构／校园,文字将二战后建筑损毁与菲律宾大学部分设施迁往Diliman联系起来,University of the Philippines,Quezon City Diliman,校园建筑,可能为迁移或校区发展年份，待核验,high,图面叙述概括，历史细节需核验
+CASE-0008,E06,6,1954,1954,STO DOMINGO CHURCH,宗教建筑／机构,文字称原教堂位于Intramuros，后在Quezon Avenue重建，并成为多明我会在菲律宾的总部,Order of Preachers／Dominicans,Intramuros Manila；Quezon Avenue,教堂建筑,年份具体所指不明,high,正文另提1588，需核验迁建时间
+CASE-0008,E07,7,1911,1911,BARRIO PUGAD LAWIN,历史事件／纪念地点,文字介绍Cry of Pugad Lawin／Cry of Balintawak、Bonifacio与Katipuneros撕毁cedula,Andres Bonifacio; Katipuneros,Pugad Lawin,历史人物／纪念地点图像,事件日期表述需核验,high,保留图面标注1911，不以外部常识改写
+CASE-0008,E08,8,1960,1960,ARANETA COLISEUM,体育场馆／城市地标,文字称其为Cubao多用途体育场，并提到1960至1963年间最大穹顶称誉,Araneta Coliseum,Cubao Quezon City,体育馆建筑,年份可能代表开放／建设节点，待核验,high,图面文字拼写有误差可能
+CASE-0008,E09,9,1986,1986,BANTAYOG NG MGA BAYANI,纪念设施／公共纪念,文字称纪念Marcos统治期间牺牲者，并提到Wall of Remembrance与Inang Bayan monument,Ferdinand Marcos; memorialized martyrs,Quezon City,纪念碑／雕塑群像,年份指向待核验,high,需核验1986代表成立、规划或建成
+CASE-0008,E10,10,2008,2008,MELCHORA AQUINO SHRINE,纪念地点／历史人物,文字介绍Melchora Tandang Sora Aquino及其帮助Katipuneros；段落写其骨灰自2012年起安放于Tandang Sora Shrine,Melchora Tandang Sora Aquino,Quezon City,纪念雕塑／神龛图像,条目年份与正文2012不一致,high,需核验2008与2012分别代表何事
