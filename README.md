@@ -23,5 +23,6 @@
 - [CASE-0009｜Lima Urban Environmental Systems：利马城市环境系统](./02-信息图形类型案例/01-混合型-Mixed-Charts/案例/CASE-0009-Lima-Urban-Environmental-Systems/README.md)
 - [CASE-0010｜Historic Centre of Macao：澳门历史城区编年与遗产地标目录](./02-信息图形类型案例/15-编年编目复合型-Hybrid/案例/CASE-0010-Macau-Historic-Centre-Heritage-Timeline-Catalog/README.md)
 - [CASE-0011｜FLOODING：曼谷洪涝危机与城市韧性信息图](./02-信息图形类型案例/01-混合型-Mixed-Charts/案例/CASE-0011-Bangkok-Flooding-Urban-Risk-Infographic/README.md)
+- [CASE-0012｜Royal Station Hotel, Forres：皇家车站酒店历史时间轴](./02-信息图形类型案例/03-时间轴型-Timeline/案例/CASE-0012-Royal-Station-Hotel-Forres-History-Timeline/README.md)
 
 每个案例尽量保存分析、结构化CSV、数据字典及来源记录；第三方图片未经许可不复制入库。

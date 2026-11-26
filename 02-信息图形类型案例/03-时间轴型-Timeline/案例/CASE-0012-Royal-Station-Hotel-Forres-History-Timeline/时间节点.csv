@@ -1,0 +1,31 @@
+event_id,visual_order,displayed_date,event_type,event_title_or_subject,displayed_detail,people_or_organizations,amount,currency,evidence_status,ambiguity_note
+CASE-0012-E01,1,1800s,土地所有权,最初土地所有者,Charles Edward Fraser of Sanquhar was the initial land owner,Charles Edward Fraser of Sanquhar,,,图面可辨,年代范围
+CASE-0012-E02,2,1866,酒店开业,John Taylor's Railway & County Hotel,John Taylor购地并建造酒店；图面称建筑师为Rhind of Inverness,John Taylor; Rhind of Inverness,,,图面可辨,具体开业日未标注
+CASE-0012-E03,3,1868,建筑装饰,Bacchus头像雕塑,Mr Goodwillie of Elgin雕刻；置于酒店入口上方钥石位置,Mr Goodwillie of Elgin,,,图面可辨,姓名与安装日期待核
+CASE-0012-E04,4,22 Jun 1870,物业交易,Spinks of Inverness购买,Spinks of Inverness purchased for £1850,Spinks of Inverness,1850,GBP,图面可辨,交易标的法律性质待核
+CASE-0012-E05,5,23 May 1871,物业交易,James Squair与George Bain Mackintosh购买,James Squair & George Bain Mackintosh purchases it,James Squair; George Bain Mackintosh,,,图面可辨,金额未标注
+CASE-0012-E06,6,10 Dec 1872,物业交易,James Campbell购买酒店,Hotel purchased by Bailie James Campbell of Gellion's Hotel, Inverness,Bailie James Campbell,,,图面可辨,金额未标注
+CASE-0012-E07,7,1873,酒店更名,Campbell's Royal Hotel,James Campbell将酒店从Taylor's Railway & County Hotel更名为Campbell's Royal Hotel,James Campbell,,,图面可辨,具体日期未标注
+CASE-0012-E08,8,约1880,历史影像,George Washington Wilson拍摄酒店,图面称照片约拍摄于1880年,George Washington Wilson,,,图面可辨,具体拍摄日期待核
+CASE-0012-E09,9,1879,社区／王室活动,Forres Cycling Club与王室来访,图面称Prince Christian与Princess Helena到访，酒店因此获得Royal称号,Forres Cycling Club; Prince Christian; Princess Helena,,,图面可辨,因果关系需外部史料核验
+CASE-0012-E10,10,13 Nov 1889,物业交易／更名,Royal Station Hotel,Alexander Macdonald收购酒店并更名为Royal Station Hotel,Alexander Macdonald,,,图面可辨,收购金额未标注
+CASE-0012-E11,11,1899,经营数据,酒店年收入,Revenue £2155；图面称约相当于2023年的£354000,,,2155,GBP,图面可辨,折算方法未注明
+CASE-0012-E12,12,Year 1903,经营许可,许可转移,Transfer of license from Alexander Macdonald to William Macdonald, Pitlochry,Alexander Macdonald; William Macdonald,,,图面可辨,许可类别未标注
+CASE-0012-E13,13,29 Mar 1905,物业交易,Alexander Macintosh购买酒店,Alexander Macintosh bought the hotel,Alexander Macintosh,,,图面可辨,姓名日期待核
+CASE-0012-E14,14,31 Mar 1909,物业交易,John Macdonald购买The Royal,John Macdonald of the Huntly Hotel purchased The Royal,John Macdonald,,,图面可辨,金额未标注
+CASE-0012-E15,15,Year 1921,产权变更,Martha与Eliza Crozier Macintyre,Change in ownership to Martha Crozier Macintyre & Eliza Crozier Macintyre,Martha Crozier Macintyre; Eliza Crozier Macintyre,,,图面可辨,具体日期未标注
+CASE-0012-E16,16,24 Nov 1921,婚礼,George Alexander Clyne与Margaret Stronach婚礼,Wedding at the hotel,George Alexander Clyne; Margaret Stronach,,,图面可辨,姓名拼写待核
+CASE-0012-E17,17,12 Nov 1952,物业交易,Macdonald夫妇购买酒店,John James Macdonald & Elizabeth Jane Macdonald purchased for £12000,John James Macdonald; Elizabeth Jane Macdonald,12000,GBP,图面可辨,交易记录待核
+CASE-0012-E18,18,26 May 1960,文化事件,The Silver Beatles入住,图面称乐队在苏格兰巡演期间入住，次日离开时未支付账单,The Silver Beatles; Johnny Gentle,,,图面可辨,叙述来源及同行关系待核
+CASE-0012-E19,19,01 Nov 1961,物业交易,Hugo Kay Kennedy购买酒店,Hugo Kay Kennedy purchased for £15000,Hugo Kay Kennedy,15000,GBP,图面可辨,交易记录待核
+CASE-0012-E20,20,Oct 1965—May 1967,交通事件,Tyler Street Trainline停运与拆除,1965年10月停止客运；货运运行至1967年5月后线路拆除,Tyler Street Trainline,,,图面可辨,线路正式名称待核
+CASE-0012-E21,21,11 Jun 1968,经营许可,Tennent Caledonian Breweries Limited获得酒吧许可,图面称公司获得酒吧经营许可,Tennent Caledonian Breweries Limited,,,图面可辨,许可法律性质待核
+CASE-0012-E22,22,13 Apr 1977,物业交易,James Wright Stewart与Freda Cecilia Macbeth购买,购买价格£32000,James Wright Stewart (Jimmy Stewart); Freda Cecilia Macbeth,32000,GBP,图面可辨,姓名拼写待核
+CASE-0012-E23,23,14 Mar 1984,物业交易,Anthony Arthur Orton与Glynis Catherine Orton购买,购买价格£110000,Anthony Arthur Orton; Glynis Catherine Orton,110000,GBP,图面可辨,姓名拼写待核
+CASE-0012-E24,24,27 Jun 1984,经营许可,Scottish & Newcastle Breweries Limited获得酒吧许可,图面称公司获得酒吧经营许可,Scottish & Newcastle Breweries Limited,,,图面可辨,许可法律性质待核
+CASE-0012-E25,25,13 Aug 1986,物业交易,Andrew Watt Beattie与Janet McAlpine购买,购买价格£117250,Andrew Watt Beattie; Janet McAlpine,117250,GBP,图面可辨,姓名拼写待核
+CASE-0012-E26,26,10 Dec 1986,物业交易,Brian Teasdale购买,购买价格£123000,Brian Teasdale,123000,GBP,图面可辨,交易记录待核
+CASE-0012-E27,27,Year 1993,经营／产权变化,MDP Hotel & Leisure接管The Royal,The Royal takeover by MDP Hotel & Leisure,MDP Hotel & Leisure,,,图面可辨,接管性质待核
+CASE-0012-E28,28,Year 1995,物业交易,Stephen与Densie Peas[nall]购买,图面姓氏识读不确定,Stephen Peas[nall]; Densie Peas[nall],,,待核验,姓氏拼写需高清图核对
+CASE-0012-E29,29,2016,社会用途,无家可归者临时收容,The Royal Hotel served as a temporary refuge for the homeless during this period,,,,图面可辨,起止时间与运营机构未标注
+CASE-0012-E30,30,2019—2022,建筑用途／产权,学生住宿与物业取得,Glasgow School of Art于2019年开始租用建筑作学生住宿，2022年取得物业,The Glasgow School of Art,,,,图面可辨,租用与取得应分为两个阶段
