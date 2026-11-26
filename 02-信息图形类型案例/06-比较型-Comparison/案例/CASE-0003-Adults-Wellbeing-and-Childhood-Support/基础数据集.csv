@@ -1,0 +1,9 @@
+case_id,outcome_domain,childhood_parental_support,adult_outcome_level,displayed_percentage,source_sample_size,source_status
+CASE-0003,Personal strengths,Very supportive parents,High,27,1000,Transcribed from user-provided infographic; original table not verified
+CASE-0003,Personal strengths,Less supportive parents,High,14,1000,Transcribed from user-provided infographic; original table not verified
+CASE-0003,Personal strengths,Very supportive parents,Low,23,1000,Transcribed from user-provided infographic; original table not verified
+CASE-0003,Personal strengths,Less supportive parents,Low,38,1000,Transcribed from user-provided infographic; original table not verified
+CASE-0003,Social competence,Very supportive parents,High,28,1000,Transcribed from user-provided infographic; original table not verified
+CASE-0003,Social competence,Less supportive parents,High,12,1000,Transcribed from user-provided infographic; original table not verified
+CASE-0003,Social competence,Very supportive parents,Low,21,1000,Transcribed from user-provided infographic; original table not verified
+CASE-0003,Social competence,Less supportive parents,Low,41,1000,Transcribed from user-provided infographic; original table not verified
