@@ -1,0 +1,7 @@
+step_id,visual_order,displayed_number,step_name,displayed_description,icon_subject,evidence_status,notes
+CASE-0013-P01,1,1,SUBMIT APPLICATION,TEXT PLACEHOLDER GOES HERE,申请文件与笔,图面可辨,说明文字为占位符
+CASE-0013-P02,2,2,BACKGROUND INVESTIGATION,TEXT PLACEHOLDER GOES HERE,指纹／背景核查,图面可辨,说明文字为占位符
+CASE-0013-P03,3,3,INTERVIEW,TEXT PLACEHOLDER GOES HERE,面谈场景,图面可辨,说明文字为占位符
+CASE-0013-P04,4,4,ADJUDICATION,TEXT PLACEHOLDER GOES HERE,文件与盾牌／勾选,图面可辨,说明文字为占位符
+CASE-0013-P05,5,5,CLEARANCE GRANTED,TEXT PLACEHOLDER GOES HERE,许可文件与锁,图面可辨,说明文字为占位符
+CASE-0013-P06,6,5,CONTINUOUS RE-EVALUATION,TEXT PLACEHOLDER GOES HERE,循环箭头与人物／天平图标,图面可辨,图面编号重复为5疑似错误；保留原样

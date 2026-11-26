@@ -1,15 +1,3 @@
-# 待补充研究文档
+# 层级表现型案例索引
 
-## 研究目标与定义
-
-## 核心信息/数据关系
-
-## 方法与分析
-
-## 视觉编码与信息架构
-
-## 叙事组织与阅读路径
-
-## 案例、来源与参考资料
-
-## 修订记录
+- [CASE-0013｜Government Secret Clearance Levels：政府机密许可等级层级信息图](./CASE-0013-Government-Security-Clearance-Levels-Hierarchy/README.md)

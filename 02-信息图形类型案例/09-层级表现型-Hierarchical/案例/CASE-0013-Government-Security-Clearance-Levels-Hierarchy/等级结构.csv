@@ -1,0 +1,5 @@
+level_id,visual_order,level_name,abbreviation,access_description,examples,relative_rank,color_role,evidence_status,notes
+CASE-0013-L01,1,TOP SECRET,TS,Access to the most sensitive classified information,"National security; Intelligence sources; Critical programs",4,深蓝灰,图面可辨,最高层级；非官方制度核验
+CASE-0013-L02,2,SECRET,S,Access to classified information that could cause serious damage if disclosed,"Military operations; Diplomatic information; Sensitive projects",3,灰绿色,图面可辨,第二层级
+CASE-0013-L03,3,CONFIDENTIAL,C,Access to information that could cause damage if disclosed,"Internal reports; Privacy data; Security procedures",2,珊瑚红／橘红,图面可辨,第三层级
+CASE-0013-L04,4,UNCLASSIFIED,U,No formal clearance required,"Public information; Routine correspondence; General documents",1,赭黄／金黄,图面可辨,最低层级

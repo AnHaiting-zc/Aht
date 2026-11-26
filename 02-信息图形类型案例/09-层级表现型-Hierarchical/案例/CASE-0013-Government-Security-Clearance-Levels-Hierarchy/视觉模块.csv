@@ -1,0 +1,10 @@
+case_id,module_id,visual_order,zone,module_content,information_role,visual_form,visual_encoding,evidence_boundary
+CASE-0013,M01,1,左上,Trust Vetting Protecting标识,建立主题框架,圆形徽章与政府建筑图标,深蓝灰,具体机构未明
+CASE-0013,M02,2,左侧,标题与引言,定义许可等级主题,大标题与短段落,深蓝粗体窄体字,未标国家或版本
+CASE-0013,M03,3,左侧中部,At a Glance,总结等级信任访问责任,四项图标清单,深蓝绿红黄圆形图标,概念摘要
+CASE-0013,M04,4,顶部中央,All Individuals Start Here,说明统一入口,虚线圆角框与向下箭头,浅灰细线,概念性文案
+CASE-0013,M05,5,中央,四级立体漏斗,表达等级上下关系,四层等距倒梯形,深蓝灰绿珊瑚红赭黄,体量非数据
+CASE-0013,M06,6,右侧,等级定义与示例,解释访问范围与敏感性,标题正文项目符号,等级色映射,有占位文案
+CASE-0013,M07,7,左下,Comparison Snapshot,比较四等级四个属性,点阵矩阵,圆点与等级行色彩,无数值刻度
+CASE-0013,M08,8,底部,Clearance Process Journey,解释六阶段程序,横向图标流程,编号圆点与右向箭头,第六步编号疑似错误
+CASE-0013,M09,9,底部,Our Shared Mission,使命声明,盾牌图标与文字卡,浅灰底深蓝字,右侧有占位符

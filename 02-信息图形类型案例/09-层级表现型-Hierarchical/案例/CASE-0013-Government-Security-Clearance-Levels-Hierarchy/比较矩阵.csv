@@ -1,0 +1,5 @@
+case_id,dimension_id,dimension_name,displayed_scale,rows,visual_encoding,evidence_status,interpretation_limit
+CASE-0013,D01,Access to Info,LOWER—HIGHER,"TS;S;C;U",点阵数量／密度,图面可辨,无明确数值和计算方法
+CASE-0013,D02,Investigation Depth,LOWER—HIGHER,"TS;S;C;U",点阵数量／密度,图面可辨,无调查等级定义
+CASE-0013,D03,Review Frequency,LOWER—HIGHER,"TS;S;C;U",点阵数量／密度,图面可辨,无复核周期数值
+CASE-0013,D04,Sensitivity of Info,LOWER—HIGHER,"TS;S;C;U",点阵数量／密度,图面可辨,仅作相对表达不可定量化
